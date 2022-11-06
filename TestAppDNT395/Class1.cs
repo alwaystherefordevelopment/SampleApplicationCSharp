@@ -14,5 +14,9 @@ namespace TestAppDNT395
             Console.WriteLine("Hello From Class1");
         }*/
         int i = 10;
+        public void MyMessage()
+        {
+            Console.WriteLine(" Hello from  " + i );
+        }
     }
 }
